@@ -1,2 +1,3 @@
-# AssaultCube-External-ESP-OVERLAY
-External Overlay
+- So this is a simpl esp overlay hack for version `1.3.0.2` .  
+- I made sure the overlay window keeps synced with the game window, that means you can move or resize the game window to whatever you want , and it will not affect the esp ! .  
+- just run the `esp.exe` that's it ! .
