@@ -1,4 +1,4 @@
-- So this is a simpl esp overlay hack for version `1.3.0.2` .  
+- So this is a simple esp overlay hack for version `1.3.0.2` .  
 - I made sure the overlay window keeps synced with the game window, that means you can move or resize the game window to whatever you want , and it will not affect the esp ! .
 - You need to include `ImGui` and `d3d11.lib` to the project . 
 - just run the `esp.exe` that's it ! .
